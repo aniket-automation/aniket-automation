@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Aniket Karkade 👋
 
-<!--
-**aniket-automation/aniket-automation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SDET with 4 years of experience in Manual and Automation Testing.
 
-Here are some ideas to get you started:
+### 🔹 Technical Skills
+- Automation: Selenium WebDriver, Playwright
+- Programming: Java
+- API Testing: Postman, REST Assured
+- Frameworks: TestNG, JUnit, Page Object Model
+- CI/CD: GitHub Actions
+- Performance: JMeter
+- Tools: Git, Maven, Jira
+- Database: SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 About This GitHub
+This profile contains real-world automation frameworks, API tests, and CI/CD-integrated test suites aligned with industry standards.
