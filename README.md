@@ -21,7 +21,11 @@ This profile contains real-world automation frameworks, API tests, and CI/CD-int
 Industry
 
 
+
 ## 🌐 Socials:
+
+💼 **LinkedIn:** https://www.linkedin.com/in/aniket-karkade-2712553a4
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketkarkade11@gmail.com) 
 
 # 💻 Tech Stack:
