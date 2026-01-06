@@ -17,8 +17,9 @@ SDET with 4 years of experience in Manual and Automation Testing.
 ### 🔹 About This GitHub
 This profile contains real-world automation frameworks, API tests, and CI/CD-integrated test suites aligned with industry standards.
 
-# 💫 About Me:
-Industry
+## 💫 About Me
+I am an SDET with 4+ years of experience in manual and automation testing. I enjoy building stable automation frameworks, improving test coverage, and working closely with developers to ensure high-quality releases.
+
 
 
 
