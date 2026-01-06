@@ -22,11 +22,14 @@ Industry
 
 
 
+
 ## 🌐 Socials:
 
 💼 **LinkedIn:** https://www.linkedin.com/in/aniket-karkade-2712553a4
 
-📧 **Email:** aniketkarkade11@gmail.com
+📧 Email: aniketkarkade11@gmail.com  
+📩 Gmail: https://mail.google.com/mail/?view=cm&fs=1&to=aniketkarkade11@gmail.com
+
 
 
 # 💻 Tech Stack:
